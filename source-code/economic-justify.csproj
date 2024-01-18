@@ -5,6 +5,7 @@
     	<TargetFramework>net7.0</TargetFramework>
     	<RootNamespace>Photon.EconomicJustify</RootNamespace>
     	<AssemblyName>eco-justify</AssemblyName>
+		<VersionPrefix>1.1</VersionPrefix>
 	</PropertyGroup>
 
 </Project>
