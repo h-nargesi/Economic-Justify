@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+    	<TargetFramework>net7.0</TargetFramework>
+    	<RootNamespace>Photon.EconomicJustify</RootNamespace>
+    	<AssemblyName>eco-justify</AssemblyName>
+	</PropertyGroup>
+
+</Project>

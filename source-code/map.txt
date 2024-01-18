@@ -1,0 +1,14 @@
+﻿properties		title				input				help										status
+===============================================================================================================
+env				conversion
+env				convertion			id
+env-no			convertion			id
+fn-sh		+	interest-rate		value
+st-sh		+	list
+fn			+	money				period, value
+no			+	money				period, value
+fn			+	money				start, end, value
+no			+	money				start, end, value
+sh			+	events
+sh			+	remove-all				
+sh			+	result				period
